@@ -5,10 +5,10 @@ title: Home
 
 <div id ="intro-wrapper" class="l-middle">
 	<div id="intro-title-wrapper" class="intro-left">
-		<h1 id="intro-title">Hi, I'm Fred Hohman</h1>
+		<h1 id="intro-title">Hi, I'm Qian Wang</h1>
 		<div id="intro-subtitle">
-			I’m a PhD candidate in the College of Computing at Georgia Tech.
-			 <!-- advised by Polo Chau and Alex Endert. -->
+			I’m a PhD student in the ISyE at Georgia Tech.
+			 <!-- advised by Kamran Paynabar. -->
 		</div>
 	</div>
 	<div class="intro-left">
